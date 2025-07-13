@@ -28,7 +28,9 @@ h1 {
     p{
         color: darkturquoise;
     }
-
+button {color: blue;}
+button {background-color: chartreuse;}
+html {color: yellow;}
 </style>
 </body>
 </html>
