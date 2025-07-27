@@ -21,7 +21,13 @@
     <button>
         click to call itachi
     </button>
-  <style>
+ <button>
+        click to die
+    </button>
+    <button>
+        click to call barotu
+    </button>
+<style>
 h1 {
         background-color:greenyellow ;
     }
