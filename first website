@@ -25,7 +25,15 @@
 h1 {
         background-color:greenyellow ;
     }
-    
+    button {
+        background-color: cyan;
+    }
+    button {
+        color: darkblue;
+    }
+    body{
+        background-color: gold;
+    }
 </style>
 </body> 
 </html>
